@@ -54,7 +54,7 @@ This is a browser-compatible Snake game created using Python and the **Pygbag** 
 
 ## How to Play
 
-1. Visit the [AWS Amplify Hosted Link](#link-to-your-game) in your browser.
+1. Visit the [Hosted Link](https://staging.d2kf5b5bmek8g2.amplifyapp.com/) in your browser.
 2. Play the game using arrow keys to control the snake and try to eat the food.
 3. Each time the snake eats food, it grows longer and the score increases.
 4. The goal is to reach the highest possible score. Once you achieve a high score, it will be saved to track your progress.
