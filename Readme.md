@@ -2,7 +2,7 @@
 
 This project is a Snake game created using Python (Pygbag) that is hosted on AWS. The game allows users to play, track their high scores, and compete to break their previous best. The game is hosted on Amazon Web Services (AWS) using Amazon S3 for storing the APK and other files, and AWS Amplify for hosting the game.
 
----
+![SnakeRun - Google Chrome 2024-11-11 10-24-02](https://github.com/user-attachments/assets/1f7dd37c-1afe-4d11-8287-4839423c0c0a)
 
 ## Table of Contents
 
@@ -71,5 +71,9 @@ This is a browser-compatible Snake game created using Python and the **Pygbag** 
 ### Steps to Run Locally:
 1. Clone the repository or download the files to your local machine.
 2. Install the required libraries by running:
-   ```bash
+   ```
    pip install pygbag
+   ```
+   ```
+   pygbag main.py
+   ```
