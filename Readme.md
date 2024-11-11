@@ -77,3 +77,10 @@ This is a browser-compatible Snake game created using Python and the **Pygbag** 
    ```
    pygbag main.py
    ```
+
+
+## Blog Post
+
+In this blog, I share my experience building a Snake game for the AWS Game Builder Challenge,
+[Blog](https://community.aws/content/2oihEHpCEtgHaTAIyfdBNKfKW2v)
+
